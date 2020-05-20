@@ -1,4 +1,8 @@
+# This script will create a text browser and display the 'www.tafensw.edu.au' website via HTTP (fails)
 
+# Author: Eric 
+
+# Date created: 20/05/2020 
 import socket
 import sys  
 
